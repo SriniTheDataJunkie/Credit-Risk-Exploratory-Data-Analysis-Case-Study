@@ -60,3 +60,6 @@ The data is about whether a client has payment difficulties.
 
 3. 'columns_description.csv' is data dictionary which describes the meaning of the variables.
  
+ 
+ # Note: 
+ if you have issues with the notebook viewing please follow this link --> https://github.com/SriniTheDataJunkie/Credit-Risk-Exploratory-Data-Analysis-Case-Study/issues/1#issue-690113308
